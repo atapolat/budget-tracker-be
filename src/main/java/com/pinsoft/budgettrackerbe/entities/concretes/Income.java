@@ -22,7 +22,7 @@ public class Income {
     private String incomeName;
 
     @Column(name = "amount")
-    private long amount;
+    private int amount;
 
     @Column(name = "date")
     private Date date;

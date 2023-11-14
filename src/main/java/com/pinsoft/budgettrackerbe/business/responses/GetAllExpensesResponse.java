@@ -12,6 +12,6 @@ import java.util.Date;
 public class GetAllExpensesResponse {
     private int id;
     private String expenseName;
-    private long amount;
+    private int amount;
     private Date date;
 }
