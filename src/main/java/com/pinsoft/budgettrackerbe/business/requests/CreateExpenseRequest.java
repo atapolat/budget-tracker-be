@@ -11,6 +11,6 @@ import java.util.Date;
 @NoArgsConstructor
 public class CreateExpenseRequest {
     private String expenseName;
-    private long amount;
+    private int amount;
     private Date date;
 }

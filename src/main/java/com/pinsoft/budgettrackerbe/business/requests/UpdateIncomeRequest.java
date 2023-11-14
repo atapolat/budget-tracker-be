@@ -11,6 +11,6 @@ import java.util.Date;
 @NoArgsConstructor
 public class UpdateIncomeRequest {
     private String incomeName;
-    private long amount;
+    private int amount;
     private Date date;
 }

@@ -12,6 +12,6 @@ import java.util.Date;
 public class GetAllIncomeResponse {
     private int id;
     private String incomeName;
-    private long amount;
+    private int amount;
     private Date date;
 }
