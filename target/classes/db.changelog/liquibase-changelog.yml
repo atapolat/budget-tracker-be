@@ -1,8 +1,0 @@
-databaseChangeLog:
-  - include:
-      file: db.changelog/users.xml
-  - include:
-      file: db.changelog/expenses.xml
-  - include:
-      file: db.changelog/incomes.xml
-
